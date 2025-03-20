@@ -11,7 +11,7 @@ html {
 
 :root {
     --font-primary: "Raleway", sans-serif;
-    --font-secondary: font-family: "Open Sans", sans-serif;
+    --font-secondary: "Open Sans", sans-serif;
 
     --color-font-primary-grey: #A5A5A5;
     --color-font-primary-black:#000000;
@@ -32,6 +32,7 @@ html {
     --color-white:#FFFFFF;
 
     --color-borders: #00000029;
+    --color-btn-shadow: #07ACE629;
 
 }
 
@@ -52,6 +53,8 @@ html {
   top: 0;
   z-index: 10;
 }
+
+/* HEADER */
 
 .header .container {
   display: flex;
@@ -105,7 +108,73 @@ html {
   flex-wrap: wrap;
   gap: 95px;
   margin: 28px 136px 27px 0px;
-  
-    
+   
 
 }
+
+/* WHY US */
+
+.whyus {
+  margin-top: 200px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url(/images/Background.png);
+  background-position: bottom;
+  background-size: contain;
+  background-repeat: no-repeat;
+  
+}
+
+.whyus .container {
+  height: 100vh;
+  
+   
+}
+
+.whyus .statistics__heading {
+  display: flex;
+  justify-content: center;
+  font-size: 49px;
+  line-height: 57px;
+  letter-spacing: 0;
+  
+  color: var(--color-font-primary-black);
+  font-family: var(--font-primary);
+  
+}
+
+.whyus .statistics__text {
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: 0;
+  font-family: var(--font-secondary);
+  color: var(--color-font-primary-black);
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.whyus .cta-btn {
+  width: 440px;
+  height: 67px;
+  background-color: var(--color-items-primary-blue);
+  border-radius: 40px;
+  margin-top: 38px;
+  box-shadow: 5px 10px 14px var(--color-btn-shadow);
+  filter: drop-shadow(5px 10px 14px #07ACE629);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 22px 157px 23px 157px;
+  }
+
+  .whyus .cta-btn-text {
+    font-size: 16px;
+    color: var(--color-white);
+    line-height: 22px;
+    letter-spacing: 0;
+    font-family: var(--font-secondary), bold;
+  }
