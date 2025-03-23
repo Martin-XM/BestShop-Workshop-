@@ -9,6 +9,10 @@ html {
     text-decoration: none;
   }
 
+  body {
+    font-size: 16px;
+  }
+
 :root {
     --font-primary: "Raleway", sans-serif;
     --font-secondary: "Open Sans", sans-serif;
@@ -510,4 +514,48 @@ display: block;
     justify-content: center;
     align-items: center;
   }
+
+  /* PRICES */
+
+  .prices_header {
+    font-family: var(--font-primary);
+  color: var(--color-font-primary-black);
+  font-size: 36px;
+  text-align: center;
   
+  line-height: 42px;
+  letter-spacing: 0;
+  margin-top: 100px;
+  
+  }
+
+  .prices-tables--wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  /* TABLE 1 */
+
+  .prices-table1 {
+    border: 1px solid var(--color-items-primary-red) ;
+    width: 372px;
+    height: 461px;
+    border-radius: 18px;
+    
+  }
+
+  /* TABLE 2 */
+  .prices-table1 {
+    border: 1px solid var(--color-items-primary-red) ;
+    width: 372px;
+    height: 461px;
+    border-radius: 18px;
+  }
+
+  /* TABLE 3 */
+  .prices-table3 {
+    border: 1px solid var(--color-items-primary-red) ;
+    width: 372px;
+    height: 461px;
+    border-radius: 18px;
+  }
