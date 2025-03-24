@@ -540,6 +540,13 @@ display: block;
   .prices-tables {
     display: flex;
     gap: 59px;
+
+  }
+
+  .prices-tables h3 {
+    font-family: var(--font-primary) bold;
+    font-size: 20px;
+    ;
   }
   /* TABLE 1 */
 
@@ -550,6 +557,7 @@ display: block;
     border-radius: 18px;
     margin-bottom: 42px;
     margin-top: calc(113px - 42px);
+    text-align: center;
     
   }
 
