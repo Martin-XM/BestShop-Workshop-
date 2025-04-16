@@ -739,3 +739,18 @@ display: block;
     position: absolute;
     margin-left: -20px;
             }
+
+    /* CONTACT */
+
+    .contact--wrapper {
+      display: flex;
+      justify-content: center;
+    }
+
+    .questions {
+      font-family: var(--font-primary);
+      font-size: 49px;
+      
+    }
+
+  
