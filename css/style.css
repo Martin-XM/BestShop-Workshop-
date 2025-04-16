@@ -680,7 +680,6 @@ display: block;
   .list2 li:nth-last-child(1)::before {
           content: url(/assets/Close.svg);
           display: inline-block;
-          color: #7a55df;
           position: absolute;
           margin-left: -20px;
     }
@@ -750,7 +749,49 @@ display: block;
     .questions {
       font-family: var(--font-primary);
       font-size: 49px;
+      background-color: #707070;
+      margin-top: 197px;
       
+    }
+
+    .questions-text {
+      font-family: var(--font-secondary);
+      font-size: 16px;
+      margin-top: 22px;
+    }
+
+    .contact-details {
+      margin-top: 42px;
+      display: flex;
+      font-family: var(--font-secondary);
+      color:var(--color-font-primary-grey);
+      font-size: 16px;
+      position: absolute;
+      gap: 40px;
+      
+    }
+    .contact-details-email::before {
+      content: url(/assets/Mail\ Icon.svg);
+      display: inline-block;
+      margin-right: 1em;
+      
+    }
+    .contact-details-tel::before {
+      content: url(/assets/Phone\ Icon.svg);
+      display: inline-block;
+      margin-right: 1em;
+      
+    }
+
+    /* FORM */
+
+    .form {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .name {
+      border-bottom: #07ACE6;
     }
 
   
