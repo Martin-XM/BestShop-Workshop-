@@ -19,6 +19,7 @@ html {
 
     --color-font-primary-grey: #A5A5A5;
     --color-font-primary-black:#000000;
+    --color-font-secondery: #13253B;
 
     --color-primary-blue: #08A6E4;
 
@@ -546,7 +547,7 @@ display: block;
   .prices-tables h3 {
     font-family: var(--font-primary) bold;
     font-size: 20px;
-    ;
+    
   }
   /* TABLE 1 */
 
@@ -559,7 +560,67 @@ display: block;
     margin-top: calc(113px - 42px);
     text-align: center;
     
+
+    
   }
+
+
+
+  .prices-table1 h3 {
+      margin-top: 34px;
+      margin-bottom: 14px;
+      color:#13253B;
+      font-size: 20px;
+      font-family: var(--font-primary);
+      font-weight: bold;
+      letter-spacing: 1px;
+    }
+
+    .price1 {
+      font-family: var(--font-secondary);
+      color: #FB3B64;
+      font-size: 46px;
+      letter-spacing: 2px;
+      font-weight: light;
+      margin-bottom: 69px;
+    }
+
+    .list1 li {
+      margin-bottom: 20px;
+      position: relative;
+      margin-bottom: 20px;
+      font-size: 14px;
+      letter-spacing: 0px;
+      color: var(--color-font-primary-black);
+    }
+
+   
+    .list1 li::before {
+        content: url(/assets/Checkmark-2.svg);
+        display: inline-block;
+        color: #7a55df;
+        position: absolute;
+        margin-left: -20px;
+        
+          }
+      .list1 li:nth-last-child(1)::before {
+            content: url(/assets/Close.svg);
+            display: inline-block;
+            color: #7a55df;
+            position: absolute;
+            margin-left: -20px;
+      }
+
+      .list1 li:nth-last-child(2)::before {
+        content: url(/assets/Close.svg);
+        display: inline-block;
+        color: #7a55df;
+        position: absolute;
+        margin-left: -20px;
+  }
+    
+    
+  
 
   /* TABLE 2 */
   .prices-table2 {
@@ -570,7 +631,62 @@ display: block;
       box-shadow: 5px 10px 27px var(--color-btn-shadow);
       margin-top: 50px;
       margin-bottom: 24px;
+      text-align: center;
   }
+
+  .prices-table2 h3 {
+    margin-top: 34px;
+    margin-bottom: 14px;
+    color:#13253B;
+    font-size: 20px;
+    font-family: var(--font-primary);
+    font-weight: bold;
+    letter-spacing: 1px;
+  }
+
+  .price2 {
+    font-family: var(--font-secondary);
+    color: var(--color-items-secondary-blue);
+    font-size: 46px;
+    letter-spacing: 2px;
+    font-weight: light;
+    margin-bottom: 15px;
+  }
+
+  .offer {
+    font-family: var(--font-primary);
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 61px;
+  }
+
+  .list2 li {
+    margin-bottom: 20px;
+    position: relative;
+    margin-bottom: 20px;
+    font-size: 14px;
+    letter-spacing: 0px;
+    color: var(--color-font-primary-black);
+  }
+
+ 
+  .list2 li::before {
+      content: url(/assets/Checkmark-2.svg);
+      display: inline-block;
+      position: absolute;
+      margin-left: -20px;
+              }
+
+  .list2 li:nth-last-child(1)::before {
+          content: url(/assets/Close.svg);
+          display: inline-block;
+          color: #7a55df;
+          position: absolute;
+          margin-left: -20px;
+    }
+
+   
+
 
   /* TABLE 3 */
   .prices-table3 {
@@ -580,4 +696,46 @@ display: block;
     border-radius: 18px;
     margin-bottom: 42px;
     margin-top: calc(113px - 42px);
+    text-align: center;
   }
+
+  .prices-table3 h3 {
+    margin-top: 34px;
+    margin-bottom: 14px;
+    color:#13253B;
+    font-size: 20px;
+    font-family: var(--font-primary);
+    font-weight: bold;
+    letter-spacing: 1px;
+  }
+
+  .price3 {
+    font-family: var(--font-secondary);
+    color: var(--color-items-secondary-blue);
+    font-size: 46px;
+    letter-spacing: 2px;
+    font-weight: light;
+    margin-bottom: 15px;
+  }
+
+  .offer {
+    font-family: var(--font-primary);
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 61px;
+  }
+
+  .list3 li {
+    margin-bottom: 20px;
+    position: relative;
+    margin-bottom: 20px;
+    font-size: 14px;
+    letter-spacing: 0px;
+    color: var(--color-font-primary-black);
+  }
+  .list3 li::before {
+    content: url(/assets/Checkmark-2.svg);
+    display: inline-block;
+    position: absolute;
+    margin-left: -20px;
+            }
