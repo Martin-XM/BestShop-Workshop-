@@ -39,6 +39,7 @@
     </header>
 
     <!-- WHY US -->
+     <div class="page-wrapper"> 
 
     <section class="opening">
         <div class="container">
@@ -51,6 +52,7 @@
             </div>
         </div>
     </section>
+        </div>
 
     <!-- STATISTICS -->
 
@@ -195,23 +197,62 @@
                 
             </div>
             </div>
-            <div class="form">
-                <label for="text">NAME</label>
-                <input class="name" type="text">  
+            <form class="form">
+                <div class="input-wrapper">
+                    <label for="name">NAME</label> 
+                    <input id="name" class="name" type="text" name="name"> 
 
-                <label for="email">EMAIL</label>  
-                <input class="email" type="email"> 
-               
-            </div>
-            <div class="form-checkbex">
-                <input type="checkbox">
-                <label for="checkbox">I hereby give consent for my personal data included in my application to be processed for the purposes of the recruitment process under the European Parliament’s and Council of the European Union Regulation on the Protection of Natural Persons as of 27 April 2016, with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (Data Protection Directive)</label>
+                    <label for="email">EMAIL</label>  
+                    <input id="email" class="email" type="email" name="email"> 
+                </div>
+                <label class="checkbox-container">
+                    <input type="checkbox">
+                    <span class="checkmark"></span>
+                    <span class="checkbox-label"></span>
+                    I hereby give consent for my personal data included in my application to be processed for the purposes of the recruitment process under the European Parliament’s and Council of the European Union Regulation on the Protection of Natural Persons as of 27 April 2016, with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (Data Protection Directive)
+                </label>
 
-            </div>
-            
+                <!-- <div class="form-checkbox">
+                    
+                    <label for="checkbox">
+                        <input type="checkbox" class="custom-checkbox">
+                        
+                        <span>I hereby give consent for my personal data included in my application to be processed for the purposes of the recruitment process under the European Parliament’s and Council of the European Union Regulation on the Protection of Natural Persons as of 27 April 2016, with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (Data Protection Directive)
+
+                        </span>
+                    </label>
+    
+                </div> -->
+                <!-- <input type="button" value="Send"></button> -->
+                 <div class="button-wrapper">
+                <button class="button-form" type="submit">Send
+
+                </button>
+                </div>
+            </form>
         </div>
 
     </section>
 
+    <!-- FOOTER -->
+
+    <section class="footer">
+        <div id="contact" class="footer">
+            <div class="footer-wrapper">
+                <div class="footer-logo">
+                    <p>BestShop</p>
+                    <span>© 2019 BestShop LTD, All Rights Reserved</span>
+                </div>
+                <div class="footer-socials">
+                    <!-- <a href="https://x.com/home?lang=cs"  -->
+                    <a href="#"> <img src="/assets/Twitter.svg" title="twitter"></a>
+                    <a href="#"> <img src="/assets/Facebook.svg" title="facebook"></a>
+                </div>
+
+
+            </div>
+            
+        </div>
+    </section>
 </body>
 </html>
