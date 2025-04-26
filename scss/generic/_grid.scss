@@ -1,0 +1,28 @@
+@use "sass:map";
+
+
+.container-grid {
+    width: 100%;
+    max-width: $max-width;
+    margin: 0 auto;
+    padding: 0 $gutter / 2;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+[class*='col-'] {
+    min-height: 1px;
+    width: $column-base-width;
+    padding: $gutter / 2;
+  }
+ 
+@for $i from 1 through $columns {
+    .col-#{$i} {
+    width: $column-base-width * $i;
+    }
+}  
+
+  
