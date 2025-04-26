@@ -99,44 +99,154 @@ table {
   width: 100%;
 }
 
-html {
-  box-sizing: border-box;
-  scroll-behavior: smooth;
+@media (width >= 576px) {
+  .col-sm-1 {
+    width: 8.33333%;
+  }
+
+  .col-sm-2 {
+    width: 16.6667%;
+  }
+
+  .col-sm-3 {
+    width: 25%;
+  }
+
+  .col-sm-4 {
+    width: 33.3333%;
+  }
+
+  .col-sm-5 {
+    width: 41.6667%;
+  }
+
+  .col-sm-6 {
+    width: 50%;
+  }
+
+  .col-sm-7 {
+    width: 58.3333%;
+  }
+
+  .col-sm-8 {
+    width: 66.6667%;
+  }
+
+  .col-sm-9 {
+    width: 75%;
+  }
+
+  .col-sm-10 {
+    width: 83.3333%;
+  }
+
+  .col-sm-11 {
+    width: 91.6667%;
+  }
+
+  .col-sm-12 {
+    width: 100%;
+  }
 }
 
-*, :before, :after {
-  box-sizing: inherit;
-  text-decoration: none;
+@media (width >= 768px) {
+  .col-md-1 {
+    width: 8.33333%;
+  }
+
+  .col-md-2 {
+    width: 16.6667%;
+  }
+
+  .col-md-3 {
+    width: 25%;
+  }
+
+  .col-md-4 {
+    width: 33.3333%;
+  }
+
+  .col-md-5 {
+    width: 41.6667%;
+  }
+
+  .col-md-6 {
+    width: 50%;
+  }
+
+  .col-md-7 {
+    width: 58.3333%;
+  }
+
+  .col-md-8 {
+    width: 66.6667%;
+  }
+
+  .col-md-9 {
+    width: 75%;
+  }
+
+  .col-md-10 {
+    width: 83.3333%;
+  }
+
+  .col-md-11 {
+    width: 91.6667%;
+  }
+
+  .col-md-12 {
+    width: 100%;
+  }
 }
 
-body {
-  font-size: 16px;
-}
+@media (width >= 576px) {
+  .col-sm-1 {
+    width: 8.33333%;
+  }
 
-:root {
-  --font-primary: "Raleway", sans-serif;
-  --font-secondary: "Open Sans", sans-serif;
-  --color-font-primary-grey: #a5a5a5;
-  --color-font-primary-black: #000;
-  --color-font-secondery: #13253b;
-  --color-primary-blue: #08a6e4;
-  --color-items-primary-red: #fb3b64;
-  --color-items-secondary-red: #eb476e;
-  --color-items-primary-blue: #08a6e4;
-  --color-items-secondary-blue: #07ace6;
-  --color-items-green: #55dfb4;
-  --color-form-items: #707070;
-  --color-form-text: #a5a5a5;
-  --color-form-checkbox-lines: #95989a;
-  --color-background: #f7f7f7;
-  --color-white: #fff;
-  --color-borders: #00000029;
-  --color-btn-shadow: #07ace629;
-}
+  .col-sm-2 {
+    width: 16.6667%;
+  }
 
-.container, .page-wrapper {
-  max-width: 1352px;
-  margin: 0 auto;
+  .col-sm-3 {
+    width: 25%;
+  }
+
+  .col-sm-4 {
+    width: 33.3333%;
+  }
+
+  .col-sm-5 {
+    width: 41.6667%;
+  }
+
+  .col-sm-6 {
+    width: 50%;
+  }
+
+  .col-sm-7 {
+    width: 58.3333%;
+  }
+
+  .col-sm-8 {
+    width: 66.6667%;
+  }
+
+  .col-sm-9 {
+    width: 75%;
+  }
+
+  .col-sm-10 {
+    width: 83.3333%;
+  }
+
+  .col-sm-11 {
+    width: 91.6667%;
+  }
+
+  .col-sm-12 {
+    width: 100%;
+  }
 }
 
 .header {
@@ -146,7 +256,7 @@ body {
   box-shadow: 0px 3px 6px var(--color-borders);
   font-family: var(--font-secondary);
   z-index: 10;
-  position: fixed;
+  position: sticky;
   top: 0;
 }
 
@@ -908,5 +1018,45 @@ input[type="text"], input[type="email"] {
 
 .footer-socials a {
   margin-left: 20px;
+}
+
+html {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+*, :before, :after {
+  box-sizing: inherit;
+  text-decoration: none;
+}
+
+body {
+  font-size: 16px;
+}
+
+:root {
+  --font-primary: "Raleway", sans-serif;
+  --font-secondary: "Open Sans", sans-serif;
+  --color-font-primary-grey: #a5a5a5;
+  --color-font-primary-black: #000;
+  --color-font-secondery: #13253b;
+  --color-primary-blue: #08a6e4;
+  --color-items-primary-red: #fb3b64;
+  --color-items-secondary-red: #eb476e;
+  --color-items-primary-blue: #08a6e4;
+  --color-items-secondary-blue: #07ace6;
+  --color-items-green: #55dfb4;
+  --color-form-items: #707070;
+  --color-form-text: #a5a5a5;
+  --color-form-checkbox-lines: #95989a;
+  --color-background: #f7f7f7;
+  --color-white: #fff;
+  --color-borders: #00000029;
+  --color-btn-shadow: #07ace629;
+}
+
+.container {
+  max-width: 1352px;
+  margin: 0 auto;
 }
 /*# sourceMappingURL=workshop01.574c7455.css.map */

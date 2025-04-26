@@ -25,4 +25,35 @@
     }
 }  
 
-  
+@include respond-to(sm) {
+    @for $i from 1 through $columns {
+        .col-sm-#{$i} {
+            width: $column-base-width * $i;
+        }
+    }
+} 
+
+@include respond-to(md) {
+   @for $i from 1 through $columns { 
+    .col-md-#{$i} {
+        width: $column-base-width * $i;
+    }
+}
+}
+
+
+@include respond-to(lg) {
+    @for $i from 1 through $columns {
+        .col-lg-#{$i} {
+            width: $column-base-width * $i;
+        }
+    }
+}
+
+@include respond-to(xl) {
+    @for $i from 1 through $columns {
+        .col-xl-#{$i} {
+            width: $column-base-width * $i;
+        }
+    }
+}

@@ -1,0 +1,105 @@
+.statistics {
+    padding: 100px 0;
+  
+  }
+
+  
+  .statistics .statistics__heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+    line-height: 42px;
+    letter-spacing: 0;
+    color: var(--color-font-primary-black);
+    font-family: var(--font-primary);
+  }
+
+.statistics-article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+.ellipse2 {
+    margin-top: 100px;
+    margin-bottom: 14px;
+    width: 63px;
+    height: 63px;
+    border-radius: 50%;
+    background-color: var(--color-items-primary-red);
+    display: flex;
+    align-items: center;  
+  
+  }
+
+  .ellipse2::after {
+    content: url(/images/Person.svg);
+    margin: 30px;
+    
+  }
+
+  .ellipse1 {
+    margin-top: 100px;
+    margin-bottom: 14px;
+    width: 63px;
+    height: 63px;
+    border-radius: 50%;
+    background-color: var(--color-items-primary-blue); 
+    display: flex;
+    align-items: center; 
+  }
+
+  .ellipse1::after {
+    content: url(/images/Eye.svg);
+    margin: 30px;
+  }
+
+  .ellipse3 {
+    margin-top: 100px;
+    margin-bottom: 14px;
+    width: 63px;
+    height: 63px;
+    border-radius: 50%;
+    background-color: var(--color-items-green); 
+    display: flex;
+    align-items: center; 
+  }
+
+  .ellipse3::after {
+    content: url(/images/Catalog.svg);
+    margin: 30px;
+  }
+
+  .statistics__article-heading {
+    
+    font: normal normal 800 20px/24px var(--font-primary);
+    color: var(--color-font-primary-black);
+    letter-spacing: 5.96px;
+    line-height: 24px;
+     
+    }
+
+  .statistics__article-text {
+    font: normal normal normal 17px/20px var(--font-primary);
+    color: var(--color-font-primary-grey);
+    margin-top: 19px;
+    letter-spacing: 0;
+    line-height: 20px;
+    width: 121px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    flex-wrap: wrap;
+    
+  }
+
+  .statistics-article--wrapper {
+    display: flex;
+    justify-content: space-between;
+    gap: 180px;
+    
+    
+  }

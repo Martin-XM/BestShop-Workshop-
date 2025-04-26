@@ -5,4 +5,11 @@ $max-width: 1352px;
 $gutter: 12px;
 $column-base-width: 100% / $columns;
 
+$breakpoints: (
+sm: 576px,
+md: 768px,
+lg: 992px,
+xl: 1200px
+);
+
 
