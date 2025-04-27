@@ -37,8 +37,8 @@
    @for $i from 1 through $columns { 
     .col-md-#{$i} {
         width: $column-base-width * $i;
+        }
     }
-}
 }
 
 

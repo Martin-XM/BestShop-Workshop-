@@ -12,8 +12,8 @@
 93C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\packager-css\lib\CSSPackager.js133901256234467443 0
 62C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\escalade133901256237533231 1
 60C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@babel133901256223528518 1
-72C:\Users\ZXMut\Downloads\kurz\workshop01\dist\workshop01.3464ddca.js.map133901363993286792 0
-45C:\Users\ZXMut\Downloads\kurz\workshop01\dist133901370455249185 1
+72C:\Users\ZXMut\Downloads\kurz\workshop01\dist\workshop01.3464ddca.js.map133902154677190084 0
+45C:\Users\ZXMut\Downloads\kurz\workshop01\dist133902185271569120 1
 70C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\msgpackr\pack.js133901256238934534 0
 78C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\postcss-value-parser\lib133901256237329657 1
 79C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\utils\src\svgo.js133901256241549486 0
@@ -42,11 +42,11 @@
 74C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\tslib\tslib.es6.html133901256233829075 0
 92C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\caniuse-lite\data\features\temporal.js133901256250625693 0
 63C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\type-fest133901256238654535 1
-51C:\Users\ZXMut\Downloads\kurz\workshop01\index.html133901358943176691 0
+51C:\Users\ZXMut\Downloads\kurz\workshop01\index.html133902147681381169 0
 86C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\transformer-html\LICENSE133901256233862929 0
 76C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\picomatch\CHANGELOG.md133901256237553195 0
 85C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\caniuse-lite\data\regions\TM.js133901256250798303 0
-71C:\Users\ZXMut\Downloads\kurz\workshop01\scss\sections\_nav-header.scss133901370448336693 0
+71C:\Users\ZXMut\Downloads\kurz\workshop01\scss\sections\_nav-header.scss133902177986374387 0
 84C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@swc\helpers\scripts\errors.js133901256243527891 0
 100C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\posthtml\node_modules\domutils\lib\querying.js133901256236923231 0
 77C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\msgpackr\test-worker.js133901256239321682 0
@@ -76,7 +76,7 @@
 72C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\dom-serializer\lib133901256238550923 1
 88C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\electron-to-chromium\versions.json133901256238081231 0
 53C:\Users\ZXMut\Downloads\kurz\workshop01\package.json133901265801933627 0
-64C:\Users\ZXMut\Downloads\kurz\workshop01\scss\generic\_grid.scss133901386274668811 0
+64C:\Users\ZXMut\Downloads\kurz\workshop01\scss\generic\_grid.scss133901389621542841 0
 99C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\transformer-raw\src\RawTransformer.js133901256235088695 0
 67C:\Users\ZXMut\Downloads\kurz\workshop01\scss\sections\_prices.scss133901344087019113 0
 75C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\picocolors\types.d.ts133901256236681705 0
@@ -119,7 +119,7 @@
 71C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\srcset\index.d.ts133901256235796032 0
 99C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\caniuse-lite\data\features\css-paged-media.js133901256243969646 0
 85C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\caniuse-lite\data\regions\TN.js133901256250808264 0
-55C:\Users\ZXMut\Downloads\kurz\workshop01\scss\main.scss133901363981931450 0
+55C:\Users\ZXMut\Downloads\kurz\workshop01\scss\main.scss133902152655833373 0
 98C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\dom-serializer\lib\esm\foreignNames.d.ts.map133901256237329657 0
 102C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@swc\helpers\_\_non_iterable_spread\package.json133901256244683656 0
 54C:\Users\ZXMut\Downloads\kurz\workshop01\scss\sections133901345346516336 1
@@ -135,7 +135,7 @@
 72C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\utility-types\dist133901256239068446 1
 101C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\posthtml\node_modules\domutils\lib\traversal.js133901256237472810 0
 89C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\package-manager\src\Yarn.js133901256239839892 0
-67C:\Users\ZXMut\Downloads\kurz\workshop01\scss\settings\_mixins.scss133901376399582907 0
+67C:\Users\ZXMut\Downloads\kurz\workshop01\scss\settings\_mixins.scss133902152138674747 0
 71C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\commander\typings133901256238527088 1
 59C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@lmdb133901256255495655 1
 73C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\parse-json\index.js133901256234223460 0
@@ -156,13 +156,13 @@
 72C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\chalk\package.json133901256236209381 0
 74C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\is-arrayish\index.js133901256235774798 0
 72C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\sass\sass.node.mjs133901256241600774 0
-71C:\Users\ZXMut\Downloads\kurz\workshop01\scss\sections\_statictics.scss133901342365555831 0
+71C:\Users\ZXMut\Downloads\kurz\workshop01\scss\sections\_statictics.scss133902187790698772 0
 109C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-mdb.txt133901256243196471 0
 76C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\term-size\package.json133901256237173604 0
 117C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-bdb.txt133901256243156467 0
 67C:\Users\ZXMut\Downloads\kurz\workshop01\scss\sections\_footer.scss133901345373897681 0
 103C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\posthtml\node_modules\domutils\lib\feeds.d.ts.map133901256237823391 0
-68C:\Users\ZXMut\Downloads\kurz\workshop01\scss\sections\_opening.scss133901344202804358 0
+68C:\Users\ZXMut\Downloads\kurz\workshop01\scss\sections\_opening.scss133902185800876536 0
 91C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\core\src\SymbolPropagation.js133901256243156467 0
 62C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\chokidar133901256238131355 1
 97C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\caniuse-lite\data\features\css-when-else.js133901256244448472 0
@@ -706,7 +706,7 @@
 98C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\posthtml\node_modules\dom-serializer\lib\esm133901256238446264 1
 92C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\type-fest\source\iterable-element.d.ts133901256238904522 0
 89C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\type-fest\source\literal-union.d.ts133901256239116707 0
-69C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Phone Icon.b10af3a5.svg133901363992823079 0
+69C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Phone Icon.b10af3a5.svg133902154675816256 0
 74C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\posthtml-render\dist133901256236518473 1
 85C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\caniuse-lite\data\regions\HU.js133901256246451032 0
 81C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\bundler-default\lib133901256234299731 1
@@ -1373,7 +1373,7 @@
 97C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\posthtml\node_modules\domutils\lib\index.js133901256235645134 0
 74C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\js-yaml\package.json133901256239957489 0
 100C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\posthtml\node_modules\domutils\lib\legacy.d.ts133901256239244626 0
-70C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Checkmark-2.57bbb865.svg133901363993923146 0
+70C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Checkmark-2.57bbb865.svg133902154675816256 0
 106C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\posthtml\node_modules\domutils\lib\manipulation.d.ts133901256239331788 0
 110C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\posthtml\node_modules\domutils\lib\manipulation.d.ts.map133901256238390397 0
 104C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\posthtml\node_modules\domutils\lib\manipulation.js133901256236591004 0
@@ -2277,7 +2277,7 @@
 70C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\escalade\license133901256233789078 0
 80C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\fs\src\MemoryFS.js133901256237343846 0
 72C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\escalade\readme.md133901256236107078 0
-66C:\Users\ZXMut\Downloads\kurz\workshop01\dist\iPhone2.f87badf1.png133901363993118434 0
+66C:\Users\ZXMut\Downloads\kurz\workshop01\dist\iPhone2.f87badf1.png133902154675816256 0
 67C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\escalade\sync133901256237720897 1
 74C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\callsites\index.d.ts133901256234209202 0
 93C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\caniuse-lite\data\features\vibration.js133901256251246842 0
@@ -3426,7 +3426,7 @@
 114C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@swc\helpers\_\_object_without_properties_loose\package.json133901256244753666 0
 102C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@swc\helpers\_\_object_spread_props\package.json133901256244723652 0
 105C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\package-manager\src\MockPackageInstaller.js133901256239186802 0
-56C:\Users\ZXMut\Downloads\kurz\workshop01\dist\index.html133901363992812937 0
+56C:\Users\ZXMut\Downloads\kurz\workshop01\dist\index.html133902154675806275 0
 100C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\core\test\fixtures\parcel\package.json133901256244055113 0
 100C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@swc\helpers\_\_non_iterable_rest\package.json133901256244673650 0
 98C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@swc\helpers\_\_new_arrow_check\package.json133901256244653668 0
@@ -3622,7 +3622,7 @@
 85C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\transformer-postcss\src133901256237442833 1
 87C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@swc\helpers\esm\_to_primitive.js133901256243336447 0
 90C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@swc\helpers\esm\_to_property_key.js133901256243346511 0
-68C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Checkmark.c57fbd17.svg133901363993923146 0
+68C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Checkmark.c57fbd17.svg133902154675816256 0
 101C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@swc\helpers\esm\_ts_add_disposable_resource.js133901256243346511 0
 96C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@swc\helpers\cjs\_ts_dispose_resources.cjs133901256241834599 0
 95C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@swc\helpers\esm\_ts_dispose_resources.js133901256243368264 0
@@ -3822,7 +3822,7 @@
 112C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\runtime-service-worker\lib\ServiceWorkerRuntime.js133901256234443301 0
 97C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\watcher\src\kqueue\KqueueBackend.hh133901256239967438 0
 98C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\watcher\scripts\build-from-source.js133901256240397298 0
-73C:\Users\ZXMut\Downloads\kurz\workshop01\dist\workshop01.574c7455.css.map133901370455239236 0
+73C:\Users\ZXMut\Downloads\kurz\workshop01\dist\workshop01.574c7455.css.map133902185271569120 0
 75C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\utils\LICENSE133901256234771036 0
 80C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\utils\package.json133901256241799515 0
 78C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\utils\test\input133901256240797560 1
@@ -4060,7 +4060,7 @@
 84C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\profiler\lib\Tracer.js133901256237462789 0
 95C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\core\lib\requests\AssetRequest.js133901256239957489 0
 85C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\profiler\lib\types.d.ts133901256238884556 0
-65C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Person.880b4a19.svg133901363992812937 0
+65C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Person.880b4a19.svg133902154675816256 0
 81C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\plugin\package.json133901256235645134 0
 79C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\fs\lib\browser.js133901256234921056 0
 72C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\plugin\src133901256236087038 1
@@ -4165,9 +4165,9 @@
 76C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\events\LICENSE133901256233960651 0
 94C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\core\lib\requests\PathRequest.js133901256242660208 0
 81C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\events\package.json133901256238262552 0
-66C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Twitter.41e2b00a.svg133901363992812937 0
+66C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Twitter.41e2b00a.svg133902154675816256 0
 72C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\events\src133901256237932730 1
-69C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Background.b0093fb6.png133901363994243720 0
+69C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Background.b0093fb6.png133902154675450817 0
 92C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\events\test\Disposable.test.js133901256235753114 0
 94C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\events\test\ValueEmitter.test.js133901256238111346 0
 86C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\events\src\Disposable.js133901256235168671 0
@@ -4242,7 +4242,7 @@
 110C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\core\test\fixtures\invalid-distpath\package.json133901256243888882 0
 107C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\core\test\fixtures\default-serve\package.json133901256243856885 0
 114C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\core\test\fixtures\config-plugin-not-found\.parcelrc133901256237203695 0
-66C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Trumpet.d291d6ae.png133901363993913049 0
+66C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Trumpet.d291d6ae.png133902154675816256 0
 97C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\core\test\fixtures\config\.parcelrc133901256237663161 0
 107C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\core\test\fixtures\config\subfolder\.parcelrc133901256237984420 0
 115C:\Users\ZXMut\Downloads\kurz\workshop01\node_modules\@parcel\core\test\fixtures\common-targets-ignore\package.json133901256243730142 0
@@ -4418,16 +4418,16 @@
 62C:\Users\ZXMut\Downloads\kurz\workshop01\images\Phone Icon.svg133868005300000000 0
 62C:\Users\ZXMut\Downloads\kurz\workshop01\images\Trumpet@2x.png133868005300000000 0
 59C:\Users\ZXMut\Downloads\kurz\workshop01\images\Twitter.svg133868005300000000 0
-66C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Catalog.5ebe22b4.svg133901363992812937 0
-64C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Close.22110c7d.svg133901363992812937 0
-62C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Eye.10263c42.svg133901363993923146 0
-67C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Facebook.389b15e8.svg133901363993923146 0
-67C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Macbook2.835770d1.png133901363992823079 0
-68C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Mail Icon.b0bc1804.svg133901363993923146 0
-68C:\Users\ZXMut\Downloads\kurz\workshop01\dist\workshop01.3464ddca.js133901363992743838 0
-69C:\Users\ZXMut\Downloads\kurz\workshop01\dist\workshop01.574c7455.css133901370455219102 0
-69C:\Users\ZXMut\Downloads\kurz\workshop01\dist\workshop01.b2625c6b.css133901363992812937 0
-73C:\Users\ZXMut\Downloads\kurz\workshop01\dist\workshop01.b2625c6b.css.map133901363993762751 0
+66C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Catalog.5ebe22b4.svg133902154675816256 0
+64C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Close.22110c7d.svg133902154675816256 0
+62C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Eye.10263c42.svg133902154675816256 0
+67C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Facebook.389b15e8.svg133902154675175283 0
+67C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Macbook2.835770d1.png133902154675816256 0
+68C:\Users\ZXMut\Downloads\kurz\workshop01\dist\Mail Icon.b0bc1804.svg133902154675185260 0
+68C:\Users\ZXMut\Downloads\kurz\workshop01\dist\workshop01.3464ddca.js133902154675185260 0
+69C:\Users\ZXMut\Downloads\kurz\workshop01\dist\workshop01.574c7455.css133902185271552799 0
+69C:\Users\ZXMut\Downloads\kurz\workshop01\dist\workshop01.b2625c6b.css133902154675816256 0
+73C:\Users\ZXMut\Downloads\kurz\workshop01\dist\workshop01.b2625c6b.css.map133902154677190084 0
 62C:\Users\ZXMut\Downloads\kurz\workshop01\assets\Background.png132210722460000000 0
 59C:\Users\ZXMut\Downloads\kurz\workshop01\assets\Catalog.svg132210722460000000 0
 63C:\Users\ZXMut\Downloads\kurz\workshop01\assets\Checkmark-1.svg132210722460000000 0

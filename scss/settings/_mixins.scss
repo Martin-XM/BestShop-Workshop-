@@ -3,7 +3,7 @@
 @mixin respond-to($breakpoint) {
     $size: map.get($breakpoints, $breakpoint);
 
-    @media (min-width: $size) {
+    @media (max-width: $size) {
         @content;
     }
 }

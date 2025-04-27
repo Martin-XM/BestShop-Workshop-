@@ -65,3 +65,14 @@
      
   
   }
+
+  @media (max-width: 1080px) {
+    nav {
+      display: none;
+    }
+      .header .container {
+        display: flex;
+        justify-content: center;
+      }
+    }
+  
