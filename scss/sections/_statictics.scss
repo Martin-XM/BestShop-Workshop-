@@ -104,7 +104,7 @@
     
   }
 
-  @include respond-to(sm) {
+  @include respond-to(md) {
     .statistics-article--wrapper {
       display: flex;
       flex-direction: column;
@@ -112,5 +112,6 @@
   }
     .statistics__heading {
       text-align: center;
+      margin: 1rem;
     }
   }

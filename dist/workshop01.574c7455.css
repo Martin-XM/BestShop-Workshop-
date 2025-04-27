@@ -428,8 +428,9 @@ body {
 
 @media (width <= 576px) {
   .background-image {
+    width: 220%;
     margin-top: 1rem;
-    transform: translateX(0%);
+    transform: translateX(-25%);
   }
 
   .cta-btn {
@@ -437,6 +438,10 @@ body {
     width: 18.75rem;
     height: 4.185rem;
     padding: 1.375rem 4.65rem 1.437rem;
+  }
+
+  .opening__text {
+    margin: 1.5rem;
   }
 }
 
@@ -537,7 +542,7 @@ body {
   display: flex;
 }
 
-@media (width <= 576px) {
+@media (width <= 768px) {
   .statistics-article--wrapper {
     flex-direction: column;
     gap: 0;
@@ -546,6 +551,7 @@ body {
 
   .statistics__heading {
     text-align: center;
+    margin: 1rem;
   }
 }
 

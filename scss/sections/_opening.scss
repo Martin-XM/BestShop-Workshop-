@@ -57,13 +57,15 @@
     line-height: 1.375rem;
     letter-spacing: 0;
     font-family: var(--font-secondary), bold;
+    
     }
   }
   
     @include respond-to(sm) {
       .background-image {
         margin-top: 1rem;
-        transform: translateX(0%);
+        width: 220%;
+        transform: translateX(-25%);
       }
       .cta-btn {
         width: 18.75rem;
@@ -71,5 +73,23 @@
         text-align: center;
         padding: 1.375rem 4.65rem 1.437rem 4.65rem;
       }
+
+      .opening__text {
+        margin: 1.5rem;
+      }
       
     }
+
+// NO STRETCH
+
+    // @media (min-width: 1024px) {
+    //   .background-image {
+    //     display: flex;
+    //     justify-content: center;
+    //     margin-top: 1rem;
+    //     max-width: 100%; 
+    //     max-height: 50vh;
+    //     width: auto; 
+    //     height: auto;
+    //     }
+    //   }
